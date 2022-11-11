@@ -4,8 +4,6 @@ class Particle:
         self.y=y
         self.ang_vel=ang_vel
 
-
-
 class ParticleSimulator:
     def __init__(self,particles):
        self.particles=particles
@@ -59,10 +57,11 @@ def visualize(simulator):
     plt.show()
 
 def test_visualize():
-    particles=[Particle(0.3,0.5,1)]
+    particles=[Particle(0.3,0.5,1)]#（x,y,v）
 
 
     simulator =ParticleSimulator(particles)
     visualize(simulator)
 
-test_visualize()
+if __name__ == "__main__":
+   test_visualize()

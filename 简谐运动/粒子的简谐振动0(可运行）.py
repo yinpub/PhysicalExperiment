@@ -26,7 +26,6 @@ class ParticleSimulator:
                 p.v -=d_v
               
                
-                
 
 from matplotlib import pyplot as plt
 from matplotlib import animation
@@ -59,8 +58,7 @@ def visualize(simulator):
     plt.show()
 
 def test_visualize():
-    particles=[Particle(3,5,100)]
-
+    particles=[Particle(3,5,10)]
 
     simulator =ParticleSimulator(particles)
     visualize(simulator)
