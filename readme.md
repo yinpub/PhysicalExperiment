@@ -1,3 +1,6 @@
-## 简介
-这个repo里包含的是一些物理实验仿真。最初这是我保存课设用的仓库。毕业后整理了一些以前的代码，干脆直接叫了同学一起做一个repo。
-里面包含一些简单的仿真，希望对你有所帮助。
+## Introduce
+This repo contains several physical simulation files.They made by Python.
+I was a student who learn physics in college.I am mainly engaged in the research of computer science.
+I hope these code are helpful to your study!
+
+- [Uniform circular motion](./%E5%8C%80%E9%80%9F%E5%9C%86%E5%91%A8%E8%BF%90%E5%8A%A8/readme.md)
