@@ -9,3 +9,7 @@ python wave.py
 多波
 python waveCombination.py
 ```
+
+### 运行视频：
+[机械波Python](https://www.bilibili.com/video/BV1YG4y1f7dm/?spm_id_from=333.999.0.0)
+
